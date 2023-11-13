@@ -5,4 +5,4 @@ En la accion de botón consultar se debe colocar el nombre del archivo si no es 
 si el id ó nombre no son numericos mostrará un mensaje de datos invalidos.
 
 interfaz:
-https://drive.google.com/file/d/11Uw1dkPvX1ndsJqJXqjMTMVFiJCS1eoC/view?usp=drivesdk
+![image](https://github.com/LeonardoBSJ/Interfaz_de_Archivo/assets/126364192/64f9adba-3970-48bc-a07a-a50c96cb2ffb)
